@@ -1,0 +1,8 @@
+zig-out
+zig-cache
+.vscode
+.zigmod
+.gyro
+gyro.lock
+*/zig-cache
+dev.sh
